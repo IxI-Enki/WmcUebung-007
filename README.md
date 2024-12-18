@@ -1,43 +1,12 @@
 ###### <p align="center"> WmcUebung-007 </p>
-<!--
-- ### *To test my javascript skills i first made myself a "playground environment"*:
+
+# *DNS = "Domain Name System"*
+  - DNS is kind of the *phonebook of the internet*.    
+  - DNS "resolves" domain names, like [`google.com`](http://www.google.com) to their associated IP addresses so that web clients can find the server they're looking for.
 
 <div align="center">
   
-  <img src ="./img/exampleB.png" alt="example" width=80%>
+  <img src ="./img/dns.png" alt="example" width=80%>
 </div>
 
 ---
-- ## *Overview of the .html "playground"-file*
-<div align="center">
-  
-  <img src ="./img/html.png" alt="html + darkmode" width=80%>
-</div>
-
-- ## *Overview of the .js "playground"-file*
-<div align="center">
-
-  <img src ="./img/script.png" alt="javascript + lightmode" width=80%>
-</div>
-
----
-
-- ## *HTTP SERVER:*
-<div align="center">
-
-  <img src ="./img/http-server.png" alt="http-server" width=80%>
-</div>
-
-- ## *JSON-SERVER:*
-<div align="center">
-
-  <img src ="./img/json-server.png" alt="json-server" width=80%>
-</div>
-
-> *On different browsers, the shown json might differ:*
-> <div align="center">
->
->    <img src ="./img/json-server-different-browsers.png" alt="json server on different browsers" width=70%>
->  </div>
--->
-
