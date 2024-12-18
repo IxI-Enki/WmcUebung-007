@@ -1,5 +1,5 @@
-###### <p align="center"> WmcUebung-004 </p>
-
+###### <p align="center"> WmcUebung-006 </p>
+<!--
 - ### *To test my javascript skills i first made myself a "playground environment"*:
 
 <div align="center">
@@ -39,7 +39,5 @@
 >
 >    <img src ="./img/json-server-different-browsers.png" alt="json server on different browsers" width=70%>
 >  </div>
-
----
-
+-->
 
